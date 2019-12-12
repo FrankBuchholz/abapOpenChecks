@@ -5,7 +5,7 @@ title: Installation
 Install using [abapGit](http://abapgit.org), or copy the source code manually into your system. Installing via abapGit requires an empty package to be created eg. $AOC
 
 ## SCI setup
-- Activate checks in transaction SCI(Goto -> Management Of -> Tests)
+- Activate checks ZCL_AOC_CA* in transaction SCI ("Goto -> Management Of -> Tests" respective "Code Inspector -> Management Of -> Checks")
 - Configure check variant
 
 ## Updating
